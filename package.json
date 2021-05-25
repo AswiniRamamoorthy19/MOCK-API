@@ -1,0 +1,22 @@
+{
+  "name": "package-lock.json",
+  "version": "1.0.0",
+  "description": "My Mock Api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo\\Error:no test specified\\&& exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AswiniRamamoorthy19/MOCK-API.git"
+  },
+  "keywords": [
+    "API"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AswiniRamamoorthy19/MOCK-API/issues"
+  },
+  "homepage": "https://github.com/AswiniRamamoorthy19/MOCK-API#readme"
+}
